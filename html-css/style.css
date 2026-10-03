@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    background-image: url("https://art.ngfiles.com/images/884000/884281_tabuley_hybrid-animation-experiment.gif?f1556045772");
+    /*imagem na pagina toda*/
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 90px;
+    font-family: 'gigi';
+}
+
+p {
+    
+    text-align: center;
+    color: rgba(25, 0, 255, 0.842);
+    font-size: 30px;
+
+}
+
+button {
+    display: block;
+    margin: 30px auto;
+    background-color: blueviolet;
+    border-radius:  30px;
+}
+
+a {
+display: block;
+margin: 30px;
+background-color: black;
+border-radius: 10px;
+
+}
